@@ -7,3 +7,7 @@
 ## steps:
 1. Run `yarn` to download dependecies
 2. Run `yarn dev` to running development server 
+
+## Login to backoffice
+- email: admin@mail.com
+- password: password
